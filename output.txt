@@ -1,0 +1,3 @@
+optimal solution for greedy method:24.0
+solution vector for greedy method:
+0	1	0	
